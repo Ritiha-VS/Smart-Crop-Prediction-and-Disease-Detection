@@ -108,7 +108,7 @@ Disease labels are generated from agricultural threshold rules:
 - ✅ Fast training — runs in minutes on Google Colab (free)
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Integrate with ESP32 for real-time sensor-based prediction
 - Add a web dashboard for farmers to input values and get predictions
@@ -125,6 +125,6 @@ Disease labels are generated from agricultural threshold rules:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
